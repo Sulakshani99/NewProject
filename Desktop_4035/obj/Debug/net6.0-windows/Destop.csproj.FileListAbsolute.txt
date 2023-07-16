@@ -1,0 +1,7 @@
+C:\Users\ACER\Downloads\Assignment NEW 2\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Destop.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\Assignment NEW 2\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+C:\Users\ACER\Downloads\Assignment NEW 2\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ACER\Downloads\Assignment NEW 2\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ACER\Downloads\Assignment NEW 2\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\Downloads\Assignment NEW 2\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Destop_MarkupCompile.cache
+C:\Users\ACER\Downloads\Assignment NEW 2\Assignment NEW\Assignment NEW\obj\Debug\net6.0-windows\Destop_MarkupCompile.lref

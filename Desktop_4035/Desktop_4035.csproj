@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Desktop_4035</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>Desktop_4035</AssemblyName>
+    <PackageId>Desktop_4035</PackageId>
+    <Authors>Desktop_4035</Authors>
+    <Product>Desktop_4035</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Model\Images\figure1.png" />
+    <None Remove="Model\Images\figure10.jpg" />
+    <None Remove="Model\Images\figure11.png" />
+    <None Remove="Model\Images\figure12.png" />
+    <None Remove="Model\Images\figure13.png" />
+    <None Remove="Model\Images\figure14.png" />
+    <None Remove="Model\Images\figure2.jpg" />
+    <None Remove="Model\Images\figure3.jpg" />
+    <None Remove="Model\Images\figure4.jpg" />
+    <None Remove="Model\Images\figure5.jpg" />
+    <None Remove="Model\Images\figure6.jpg" />
+    <None Remove="Model\Images\figure7.jpg" />
+    <None Remove="Model\Images\figure8.jpg" />
+    <None Remove="Model\Images\figure9.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.1.0" />
+    <PackageReference Include="DevExpress.Data" Version="22.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Model\Images\figure1.png" />
+    <Resource Include="Model\Images\figure10.jpg" />
+    <Resource Include="Model\Images\figure11.png" />
+    <Resource Include="Model\Images\figure12.png" />
+    <Resource Include="Model\Images\figure13.png" />
+    <Resource Include="Model\Images\figure14.png" />
+    <Resource Include="Model\Images\figure2.jpg" />
+    <Resource Include="Model\Images\figure3.jpg" />
+    <Resource Include="Model\Images\figure4.jpg" />
+    <Resource Include="Model\Images\figure5.jpg" />
+    <Resource Include="Model\Images\figure6.jpg" />
+    <Resource Include="Model\Images\figure7.jpg" />
+    <Resource Include="Model\Images\figure8.jpg" />
+    <Resource Include="Model\Images\figure9.jpg" />
+  </ItemGroup>
+
+</Project>
